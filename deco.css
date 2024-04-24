@@ -28,7 +28,7 @@ body {
 	border: 2px solid #196E83;
 }
 #wrapper #content {
-     height: 6700px;
+     height: 100%;
 	 margin-top: 10px;
 	 margin-bottom: 10px;
 }
