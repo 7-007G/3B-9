@@ -13,7 +13,7 @@ body {
 }
 #wrapper #header {
       height:  135px;
-	  background: <img src=header.jpg alt="header.jpg">;
+<img src=header.jpg alt="header.jpg">;
 	  background-repeat: no-repeat;
 	  padding-top: 15px;
 }
