@@ -38,7 +38,15 @@ body {
 		padding-top: 5px;
 }
 
-
+<script language="javascript">
+		      function autoResizeDiv()
+			  {
+				document.getElementById('header; content; footer').style.height = window.innerHeight +'px';
+				
+				 window.onresize = autoResizeDiv;
+				 autoResizeDiv();
+}
+		  </script>
 
 
 /* NAV LINKS */
